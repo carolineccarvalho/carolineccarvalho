@@ -22,4 +22,5 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/caroline-carvalho-bb1394237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://codeforces.com/profile/violetcoop" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
 </div>
