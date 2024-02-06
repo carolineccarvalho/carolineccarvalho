@@ -18,7 +18,7 @@
     <a href="https://cplusplus.com/">
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" />     
 </div> 
-- Social media:
+##
 <div>
   <a href="https://www.linkedin.com/in/caroline-carvalho-bb1394237/" target="_blank"><img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
 </div>
