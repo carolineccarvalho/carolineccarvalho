@@ -20,5 +20,5 @@
 </div> 
 
 <div>
-  <a href="https://www.linkedin.com/in/caroline-carvalho-bb1394237/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caroline-carvalho-bb1394237/" target="_blank"><img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
 </div>
