@@ -17,7 +17,7 @@
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <a href="https://cplusplus.com/">
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" />   
-    <img align="right" src="https://discord.com/channels/1104183630307282967/1104183631192268872/1204418221243899924" />
+    <img align="right" src="https://media.discordapp.net/attachments/1104183631192268872/1204417355501936730/undefined_-_Imgur.gif?ex=65d4a812&is=65c23312&hm=65f7c865e4d5722afb2825e4bca8eb2cc0844732ebc6e05488969061ba736df4&=&width=412&height=255" />
 </div> 
     
 ##
