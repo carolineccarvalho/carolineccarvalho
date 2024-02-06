@@ -1,5 +1,5 @@
-Hi, I’m Caroline Carvalho
-I’m currently learning Competitive Programming and Hacking
+- Hi, I’m Caroline Carvalho
+- I’m currently learning Competitive Programming and Hacking
   
 
 <div> 
