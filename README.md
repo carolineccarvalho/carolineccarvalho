@@ -27,7 +27,7 @@
  <img align="center" src="https://media.discordapp.net/attachments/1104183631192268872/1204417355501936730/undefined_-_Imgur.gif" />
 </div>
 
-<picture>
+<div>
   ![Snake animation](https://github.com/carolineccarvalho/carolineccarvalho/blob/output/github-contribution-grid-snake.svg)
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-</picture>
+</div>
