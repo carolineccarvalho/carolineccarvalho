@@ -28,6 +28,6 @@
 </div>
 
 
-  ![Snake animation](https://github.com/carolineccarvalho/carolineccarvalho/blob/output/github-contribution-grid-snake.svg)
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+![Snake animation](https://github.com/carolineccarvalho/carolineccarvalho/blob/output/github-contribution-grid-snake.svg)
+
 
