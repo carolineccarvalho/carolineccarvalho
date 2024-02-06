@@ -18,7 +18,7 @@
     <a href="https://cplusplus.com/">
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" />   
     <a href="https://cdn.discordapp.com/attachments/1104183631192268872/1204418220766011412/giphy.gif?ex=65d4a8e0&is=65c233e0&hm=26a890f8058c6cc61708d90a7780955a3991e7287077ecf5fc3252727da7864f&">
-    <img align="right" height="30" width="50" src="https://cdn.discordapp.com/attachments/1104183631192268872/1204418220766011412/giphy.gif" />
+    <img align="right" height="60" width="80" src="https://cdn.discordapp.com/attachments/1104183631192268872/1204418220766011412/giphy.gif" />
 </div> 
     
 ##
