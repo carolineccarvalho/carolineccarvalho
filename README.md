@@ -4,8 +4,8 @@
 
 <div> 
   <a href="https://github.com/carolineccarvalho">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolineccarvalho&show_icons=true&theme=cobalt&include_all_commits=true&count_privete=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineccarvalho&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=carolineccarvalho&show_icons=true&theme=cobalt&include_all_commits=true&count_privete=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineccarvalho&layout=compact&langs_count=16&theme=cobalt"/>
 </div> 
   <style="display: inline_block"><br>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
