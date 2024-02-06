@@ -5,6 +5,6 @@
 
 <div> 
   <a href="https://github.com/carolineccarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolineccarvalho&show_icons=true&theme=monokai&include_all_commits=true&count_privete=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineccarvalho&layout=compact&langs_count=16&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolineccarvalho&show_icons=true&theme=nord&include_all_commits=true&count_privete=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineccarvalho&layout=compact&langs_count=16&theme=nord"/>
 </div> 
