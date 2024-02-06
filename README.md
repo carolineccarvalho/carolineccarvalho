@@ -14,7 +14,6 @@
     <a href="https://archlinux.org/" target="_blank"><img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" target="_blank"></a>
     <a href="https://www.python.org/" target="_blank"><img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" target="_blank"></a>
     <a href="https://cplusplus.com/" target="_blank"><img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" target="_blank"></a>   
-    <img align="right" height="100" width="120" src="https://cdn.discordapp.com/attachments/1104183631192268872/1204418220766011412/giphy.gif" />
 </div> 
     
 ##
